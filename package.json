@@ -1,6 +1,6 @@
 {
-  "name": "i-hate-internet-explorer",
-  "version": "0.0.1",
+  "name": "eslint-plugin-ie-static-methods",
+  "version": "1.0.0",
   "description": "Internet Explorer compatibility rules",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,12 @@
   "peerDependencies": {
     "eslint": "^2.0.0 || ^3.0.0"
   },
+  "repository": "https://github.com/rfeie/eslint-plugin-ie-static-methods",
+  "author": "Robert Feie <robertgunnerfeie@gmail.com>",
   "engines": {
     "node": ">=0.10"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
   }
 }

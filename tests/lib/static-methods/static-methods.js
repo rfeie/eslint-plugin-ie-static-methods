@@ -1,4 +1,4 @@
-var rule = require('../../../lib/i-hate-internet-explorer/Object')
+var rule = require('../../../lib/static-methods/static-methods')
 var RuleTester = require('eslint').RuleTester;
 
 var ruleTester = new RuleTester();
