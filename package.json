@@ -21,7 +21,7 @@
     "mocha": "3.1.0"
   },
   "peerDependencies": {
-    "eslint": "^2.0.0 || ^3.0.0"
+    "eslint": "^2.0.0 || ^3.0.0 || ^4.0.0"
   },
   "repository": "https://github.com/rfeie/eslint-plugin-ie-static-methods",
   "author": "Robert Feie <robertgunnerfeie@gmail.com>",
